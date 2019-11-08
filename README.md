@@ -1,4 +1,4 @@
-# simple-java-maven-app
+# sample simple-java-maven-app
 # kjhjkhkhkjkjTest
 # LOrem epsum
 # check
